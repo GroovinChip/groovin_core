@@ -1,4 +1,4 @@
-package dev.groovinchip.project_name;
+package {{package_id}};
 
 import io.flutter.embedding.android.FlutterActivity;
 
