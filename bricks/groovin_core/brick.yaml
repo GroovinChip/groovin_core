@@ -1,0 +1,6 @@
+name: groovin_core
+description: An opinionated Flutter app template by GroovinChip
+vars:
+  - project_name
+  - description
+  - package_id
