@@ -29,7 +29,7 @@ $ cd my_app
 $ flutter packages get
 ```
 
-_\*[Groovin Core](https://github.com/GroovinChip/groovin_core) works on iOS and Android, with Web and Desktop support coming soon._
+_\*[Groovin Core](https://github.com/GroovinChip/groovin_core) works on iOS, Android, Web and macOS._
 
 Now your app is running 🎉
 
